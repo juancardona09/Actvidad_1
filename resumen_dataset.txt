@@ -1,0 +1,34 @@
+=== RESUMEN DEL DATASET ===
+
+Filas: 113
+Columnas: 6
+
+Nombres y tipos de columna:
+Id                 int64
+SepalLengthCm    float64
+SepalWidthCm     float64
+PetalLengthCm    float64
+PetalWidthCm     float64
+Species              str
+dtype: object
+
+Valores nulos por columna:
+Id               0
+SepalLengthCm    0
+SepalWidthCm     0
+PetalLengthCm    0
+PetalWidthCm     0
+Species          0
+dtype: int64
+Total de valores nulos: 0
+
+Estadisticas basicas:
+               Id  SepalLengthCm  SepalWidthCm  PetalLengthCm  PetalWidthCm
+count  113.000000     113.000000    113.000000     113.000000    113.000000
+mean    92.097345       6.124779      2.939823       4.534513      1.518584
+std     36.168249       0.737095      0.377383       1.294133      0.594851
+min      6.000000       4.700000      2.000000       1.600000      0.200000
+25%     66.000000       5.600000      2.700000       4.000000      1.300000
+50%     94.000000       6.100000      3.000000       4.700000      1.500000
+75%    122.000000       6.600000      3.200000       5.400000      2.000000
+max    150.000000       7.900000      3.900000       6.900000      2.500000
